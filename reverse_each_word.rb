@@ -12,3 +12,4 @@ def
   rev_text.join(" ")
   
 end 
+
