@@ -8,6 +8,6 @@ def
   
   finesse_array = text_or_sting.split(" ")
   
-  rev_text = finesse_array.map { |each_string|   }
+  rev_text = finesse_array.map { |each_string| each_string.reverse }
   
 end 
