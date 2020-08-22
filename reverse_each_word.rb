@@ -10,4 +10,5 @@ def
   
   rev_text = finesse_array.map { |each_string| each_string.reverse }
   
+  
 end 
