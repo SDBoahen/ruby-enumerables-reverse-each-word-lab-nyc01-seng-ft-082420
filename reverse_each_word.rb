@@ -8,4 +8,6 @@ def
   
   finesse_array = text_or_sting.split(" ")
   
+  rev_text = finesse_array
+  
 end 
